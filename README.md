@@ -1,12 +1,13 @@
-# React + Vite
+Torcedores Anônimos is a fun and welcoming web application for soccer fans who are suffering due to their team’s poor performance. Users can chat with our fictional therapist — Dr. Lora Sofrência — for 20 minutes for free. After that, to keep venting, they can subscribe to a symbolic weekly plan.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The site features:
 
-Currently, two official plugins are available:
+Chat with automatic responses and funny phrases.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Free time countdown.
 
-## Expanding the ESLint configuration
+Deflating ball animation when time runs out.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Modern and responsive interface.
+
+Technologies used: Next.js, Tailwind CSS, Framer Motion, React Hooks.
