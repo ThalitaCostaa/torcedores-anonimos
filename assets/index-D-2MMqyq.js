@@ -100,7 +100,7 @@ Error generating stack: `+n.message+`
       border-radius: 2px;
     }
   }
-`;document.head.appendChild(Lc);function Hc({size:a=60,mobileSize:l=40,className:u=""}){return R.jsxs("div",{className:u,style:{display:"inline-block",verticalAlign:"middle"},children:[R.jsx("img",{src:"/logo-torc.png",alt:"Torcedores Anônimos Logo",width:a,height:a,style:{objectFit:"contain",filter:"drop-shadow(2px 2px 4px rgba(0,0,0,0.5))","@media (max-width: 768px)":{width:l,height:l}},className:"responsive-logo"}),R.jsx("style",{jsx:!0,children:`
+`;document.head.appendChild(Lc);function Hc({size:a=60,mobileSize:l=40,className:u=""}){return R.jsxs("div",{className:u,style:{display:"inline-block",verticalAlign:"middle"},children:[R.jsx("img",{src:"./logo-torc.png",alt:"Torcedores Anônimos Logo",width:a,height:a,style:{objectFit:"contain",filter:"drop-shadow(2px 2px 4px rgba(0,0,0,0.5))","@media (max-width: 768px)":{width:l,height:l}},className:"responsive-logo"}),R.jsx("style",{jsx:!0,children:`
         @media (max-width: 768px) {
           .responsive-logo {
             width: ${l}px !important;
